@@ -17,6 +17,7 @@ Download Tor & Polipo HTTP proxy
 Start both of them in daemon mode
 
 `tor &`
+
 `polipo &`
 
 Change the configuration of `/etc/polipo/config` to that of `polipo.conf` (included)
